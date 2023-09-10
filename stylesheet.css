@@ -65,3 +65,13 @@
 
     width: 3%;
 }
+
+.contents {
+    position: absolute;
+    right: auto;
+    left: 260px;
+    top: auto;
+    bottom: 4%;
+
+    width: 5%;
+}
