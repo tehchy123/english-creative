@@ -45,3 +45,23 @@
 
     width: 3%;
 }
+
+.home {
+    position: absolute;
+    right: auto;
+    left: 100px;
+    top: auto;
+    bottom: 6%;
+
+    width: 3%;
+}
+
+.next {
+    position: absolute;
+    right: auto;
+    left: 180px;
+    top: auto;
+    bottom: 6%;
+
+    width: 3%;
+}
