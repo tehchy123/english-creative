@@ -35,3 +35,13 @@
     border-style: solid;
     border-color: black;
 }
+
+.back {
+    position: absolute;
+    right: auto;
+    left: 20px;
+    top: auto;
+    bottom: 6%;
+
+    width: 3%;
+}
