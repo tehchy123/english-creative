@@ -1,33 +1,37 @@
-.container {
-    display: flex;
-}
-
 .go {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+.container {
+    display: flex;
+
+    position: absolute;
+    right: 10px;
+    left: 10px;
+    top: 10px;
+    bottom: 10px;
+}
+
 .fatherhood {
-    display: block;
-    margin-left: 2%;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    position: absolute;
+    right: auto;
+    left: 10px;
+    top: 10px;
+    bottom: auto;
 
-    width: auto;
-    padding-right: 1%;
-    padding-top: 2%;
-    padding-left: 2%;
-    padding-bottom: 2%;
-    max-width: 50%;
-
-    border-style: dashed;
-    border-color: aqua;
+    width: 25%;
 }
 
 .embed {
-    
+    position: absolute;
+    right: 10px;
+    left: auto;
+    top: 10px;
+    bottom: auto;
+    height: 82%;
 
-    border-style: dotted;
-    border-color: red;
+    border-style: solid;
+    border-color: black;
 }
