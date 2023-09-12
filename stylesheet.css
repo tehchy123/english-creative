@@ -76,6 +76,7 @@
     width: 5%;
 }
 
-.toc-list {
-    font-size: medium;
+.links {
+    color: black;
+    font-size: 36px;
 }
