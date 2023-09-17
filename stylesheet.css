@@ -89,7 +89,6 @@
     position: relative;
     width: 45%;
     height: 49%;
-
     top: 15%;
 }
 
@@ -103,6 +102,6 @@
     position: absolute;
     top: 10%;
     bottom: auto;
-    left: 3%;
+    left: 7%;
     right: auto;
 }
