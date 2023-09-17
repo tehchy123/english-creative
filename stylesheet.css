@@ -16,14 +16,20 @@
 
 .embed {
     position: absolute;
-    right: 10px;
-    left: auto;
-    top: 10px;
-    bottom: auto;
-    height: 82%;
+    width: 100%;
+    height: 100%;
 
     border-style: solid;
     border-color: black;
+}
+
+.divembed {
+    position: relative;
+    width: 63%;
+    height: 80%;
+    top: 3%;
+
+    margin-left: 10%;
 }
 
 .back {
