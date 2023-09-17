@@ -14,16 +14,6 @@
     bottom: 10px;
 }
 
-.fatherhoodPoster {
-    position: absolute;
-    right: auto;
-    left: 10px;
-    top: 10px;
-    bottom: auto;
-
-    width: 25%;
-}
-
 .embed {
     position: absolute;
     right: 10px;
@@ -83,6 +73,19 @@
 
 .content-number {
     font-size: 30px;
+}
+
+.image {
+    position: relative;
+    width: 25%;
+    height: 80%;
+    top: 3%;
+}
+
+.fatherhoodPoster {
+    position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 .fatherhoodSlideshow {
